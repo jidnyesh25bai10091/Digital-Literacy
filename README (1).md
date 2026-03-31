@@ -1,20 +1,20 @@
- # 👋 Hi, I'm Jidnyesh!
+ #  Hi, I'm Jidnyesh!
 
 I'm an engineering student at VIT Bhopal who enjoys learning and building things with Python 🐍.  
 I like solving problems, trying out new ideas, and slowly improving my coding skills every day.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 Currently studying Engineering at VIT Bhopal  
-- 🐍 Working mainly with Python  
-- 💡 Curious about how software works and how to build useful tools  
-- 📈 Always trying to get better, one project at a time  
+-  Currently studying Engineering at VIT Bhopal  
+-  Working mainly with Python  
+-  Curious about how software works and how to build useful tools  
+-  Always trying to get better, one project at a time  
 
 ---
 
-## 🛠️ What I Know
+## What I Know
 
 - Python (core concepts)  
 - Basics of data structures  
@@ -22,7 +22,7 @@ I like solving problems, trying out new ideas, and slowly improving my coding sk
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 - Get really comfortable with Python and write clean code  
 - Build some useful and fun real-world projects  
@@ -33,7 +33,7 @@ I like solving problems, trying out new ideas, and slowly improving my coding sk
 
 ---
 
-## 📂 Projects
+##  Projects
 
 Here are a few things I’ve worked on:
 
@@ -46,10 +46,10 @@ Here are a few things I’ve worked on:
 - 🔹 Number Guessing Game  
   Just a fun game using loops and random numbers  
 
-(Planning to add more soon 🚀)
+(Planning to add more soon )
 
 ---
 
-## ✨ A Little Note
+##  A Little Note
 
 I’m still learning, exploring, and figuring things out—but I enjoy the process.
